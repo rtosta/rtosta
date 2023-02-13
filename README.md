@@ -22,5 +22,3 @@ Sou estudante de Relações Internacionais na Unesp e atualmente participo do gr
   <a href="https://www.linkedin.com/in/rebeca-dos-santos-tosta-206672247" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href= "https://gitlab.com/r.s.tosta"> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
 </div>
-  
-  ![Snake animation](https://github.com/rtosta/rtosta/blob/output/github-contribution-grid-snake.svg)
