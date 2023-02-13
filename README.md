@@ -5,7 +5,7 @@ Sou estudante de Relações Internacionais na Unesp e atualmente participo do gr
 
 ##
   <a href="https://github.com/anamacao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rtosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>      <img height="180m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtosta&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rtosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>      <img height="140m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtosta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## 
