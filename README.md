@@ -1,7 +1,7 @@
 ### Oi, tudo bem? Eu sou a Rebeca Tosta! 🌷
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjE4NmNiMDc5YTI4ODc0MWI1ZjU1NWQ3ZjQzMzQxZmFhOGM3NDg1ZiZjdD1n/KwKd40TS1JKvu4168q/giphy.gif" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NkNDU3OTgyZmUyNWNjZDJiNDQ4ZDkxNzIwZTBjYzc5ZDhjYWM5MiZjdD1n/muEIHxIzyTwLEqACCn/giphy.gif" />
 </div>
 
 Sou estudante de Relações Internacionais na Unesp e atualmente participo do grupo de pesquisa Lantri (laboratório de novas tecnologias de pesquisa em Relações Internacionais), desenvolvendo códigos em Python e realizando trabalhos com hardwares e softwares a fim de auxiliar e possibilizar a produção de conhecimento científico. 
