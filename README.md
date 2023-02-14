@@ -1,4 +1,4 @@
-### Oi, tudo bem? Eu sou a Rebeca Tosta! 🦋🌻🌷
+### Oi, tudo bem? Eu sou a Rebeca Tosta! 🌷
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjE4NmNiMDc5YTI4ODc0MWI1ZjU1NWQ3ZjQzMzQxZmFhOGM3NDg1ZiZjdD1n/KwKd40TS1JKvu4168q/giphy.gif" />
